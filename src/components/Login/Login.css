@@ -1,0 +1,14 @@
+.form-style{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+.input-style{
+    width: 90%;
+    text-align: center;
+    border: 2px solid blue;
+    border-radius: 10px;
+    line-height: 30px;
+    margin: 7px 0;
+}
